@@ -1,9 +1,9 @@
 # DevTech Solutions
 
 - 👋 Hi, I’m @DevTechSolutions
-- 👀 I’m interested in PowerShell, Python
-- 🌱 I’m currently improving my PowerShell
-- 💞️ I’m looking to collaborate on PowerShell Automation
+- 👀 I’m interested in PowerShell & Python, but mostly use PowerShell because its what I know best.
+- 🌱 I’m currently improving my PowerShell. Learning new things everyday which help me personally and professionally.
+- 💞️ I’m looking to collaborate on PowerShell Automation and Python Scripting.
 - 📫 How to reach me: cdevecht@devtechsolutions.co
 
 <!---
