@@ -1,6 +1,6 @@
 # DevTech Solutions
 
-- 👋 Hi, I’m Cody DeVecht aka @DevTechSolutions
+- 👋 Hi, I’m Cody DeVecht aka @DevTechSolutions aka Captain Computer. I know, I might be having a bit of an identity crisis.
 - 👀 I’m interested in PowerShell & Python, but mostly use PowerShell because its what I know best.
 - 🌱 I’m currently improving my PowerShell. Learning new things everyday which help me personally and professionally.
 - 💞️ I’m looking to collaborate on PowerShell Automation and Python Scripting.
